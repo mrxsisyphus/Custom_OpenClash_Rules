@@ -1,0 +1,10 @@
+# Pikpak
+# REPO: https://github.com/mrxsisyphus/Custom_OpenClash_Rules/blob/main/rule/Custom_Pikpak.yaml
+# TOTAL: 5
+
+payload:
+  - DOMAIN,mypikpak.com
+  - DOMAIN,mypikpak.net
+  - DOMAIN,user.mypikpak.com
+  - DOMAIN,access.mypikpak.com
+  - DOMAIN,api-drive.mypikpak.com
